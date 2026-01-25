@@ -8,3 +8,14 @@ y="Hello,World!"
 #Example 3
 #This is a comment
 print("Hello,World!")
+
+
+#Statments:
+
+#Example 4
+print("Hello World!")
+print("I am learning Python.")
+print("It is awesome!")
+
+#Example 5
+print("Hello"); print("How are you?"); print("Bye bye!")
