@@ -28,3 +28,4 @@ print(b[2:5])
 
 c = "Hello, World!"
 print(b[-5:-2])
+
